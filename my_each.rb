@@ -3,5 +3,6 @@ def my_each(collection)
   while 1 < collection.length
   yield collection[i]
   i = i + 1
-  # code here
+end
+array
 end
